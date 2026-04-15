@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ns566750.seedloaf.com",
-    "port": 49303,
+    "ip": "158.69.60.178",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
