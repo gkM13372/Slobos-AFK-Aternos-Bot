@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "baszomanyad",
   "bot-account": {
     "username": "balnaanyabaszo",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bordanydpk.sdlf.fun",
+    "ip": "ns566750.seedloaf.com",
     "port": 25565,
     "version": "",
     "try-creative": false
